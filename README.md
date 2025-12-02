@@ -1,7 +1,6 @@
 ### Hello, my name is Sebastián <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebasti%C3%A1n-larovere-a7a3a2152/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bn%2BcSrkovSsimPzEOc2LG8A%3D%3D)](https://www.linkedin.com/in/sebasti%C3%A1n-larovere-a7a3a2152/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bn%2BcSrkovSsimPzEOc2LG8A%3D%3D) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sebilarovere@gmail.com)](sebilarovere@gmail.com) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+
 
 
 
